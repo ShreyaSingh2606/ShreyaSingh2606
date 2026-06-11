@@ -1,6 +1,6 @@
 # Hi, I'm Shreya Singh 👋
 
-🎓 First-year Computer Science student at ADYPU, Pune  
+🎓 First-year Computer Science student at NST(ADYPU), Pune  
 💻 Building with React, JavaScript, and REST APIs  
 🌱 Currently contributing to open source via **GSSoC '25**  
 ⚡ Codeforces Rating: **850+**
