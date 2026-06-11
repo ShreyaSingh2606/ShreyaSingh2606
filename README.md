@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Shreya Singh 👋
 
-<!--
-**ShreyaSingh2606/ShreyaSingh2606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Computer Science student at ADYPU, Pune  
+💻 Building with React, JavaScript, and REST APIs  
+🌱 Currently contributing to open source via **GSSoC '25**  
+⚡ Codeforces Rating: **850+**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Live |
+|--------|-------------|------|
+| [Zotel Stays](https://github.com/ShreyaSingh2606/zotel-stays) | React landing page with dark mode, property filtering & wishlist | [🔗 Live](https://zotel-stays.vercel.app) |
+| [News Dashboard](https://github.com/ShreyaSingh2606/NewsDashboard) | Real-time news feed + ISS tracker + AI chatbot | [🔗 Live](https://news-dashboard-27zppicwf-shreya-singhs-projects-a2ff7a26.vercel.app/) |
+| [Expense Tracker](https://github.com/ShreyaSingh2606/Expense_Tracker) | React-based expense management app | [🔗 Live](https://expense-tracker-ypyv.vercel.app) |
+
+---
+
+## 📊 GitHub Stats
+
+![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaSingh2606&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSingh2606&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-singh-66a84a395/)
