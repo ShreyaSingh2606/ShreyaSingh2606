@@ -23,7 +23,7 @@
 
 | Project | Description | Live |
 |--------|-------------|------|
-| [Zotel Stays](https://github.com/ShreyaSingh2606/zotel-stays) | React landing page with dark mode, property filtering & wishlist | [🔗 Live](https://wap-react-project-a2ul-xxwtt8odu.vercel.app) |
+| [Zotel Stays](https://github.com/ShreyaSingh2606/Zostel_Stays-clone) | React landing page with dark mode, property filtering & wishlist | [🔗 Live](https://wap-react-project-a2ul-xxwtt8odu.vercel.app) |
 | [Holistic Harmony](https://github.com/ShreyaSingh2606/holistic-harmony) | Mental wellness web app with live Yoga API, Mudras & Ayurveda tips — with search, filter & sort | [🔗 Live](https://holistic-harmony-olive.vercel.app) |
 | [News Dashboard](https://github.com/ShreyaSingh2606/NewsDashboard) | Real-time news feed + ISS tracker + AI chatbot | [🔗 Live](https://news-dashboard-27zppicwf-shreya-singhs-projects-a2ff7a26.vercel.app/) |
 | [Expense Tracker](https://github.com/ShreyaSingh2606/Expense_Tracker) | React-based expense management app | [🔗 Live](https://shreya-expense-tracker-fae2n76hc.vercel.app) |
